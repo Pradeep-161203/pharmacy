@@ -1,0 +1,6 @@
+hi,52,hi@g.in
+kec,ke12,kec@gmail.com
+maxy,123,maxy@m.com
+kar,123d,nscs@.in
+pradeep,123,pradeep@p.com
+pranesh,123,pranesh@gmail.com
